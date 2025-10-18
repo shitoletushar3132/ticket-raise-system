@@ -1,0 +1,26 @@
+2025-10-19 01:04:51 [ERROR]: Command find requires authentication
+2025-10-19 01:05:39 [ERROR]: MongoServerError: Command find requires authentication
+    at Connection.sendCommand (D:\ticket-raise-system\backend\node_modules\mongodb\lib\cmap\connection.js:306:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.command (D:\ticket-raise-system\backend\node_modules\mongodb\lib\cmap\connection.js:334:26)
+    at async Server.command (D:\ticket-raise-system\backend\node_modules\mongodb\lib\sdam\server.js:194:29)
+    at async tryOperation (D:\ticket-raise-system\backend\node_modules\mongodb\lib\operations\execute_operation.js:213:32)
+    at async executeOperation (D:\ticket-raise-system\backend\node_modules\mongodb\lib\operations\execute_operation.js:78:16)
+    at async FindCursor._initialize (D:\ticket-raise-system\backend\node_modules\mongodb\lib\cursor\find_cursor.js:62:26)
+    at async FindCursor.cursorInit (D:\ticket-raise-system\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (D:\ticket-raise-system\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (D:\ticket-raise-system\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+2025-10-19 01:10:38 [ERROR]: Expected ',' or '}' after property value in JSON at position 60 (line 4 column 5) - /api/auth/register
+2025-10-19 01:14:46 [ERROR]: MongoServerError: Command find requires authentication
+    at Connection.sendCommand (D:\ticket-raise-system\backend\node_modules\mongodb\lib\cmap\connection.js:306:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.command (D:\ticket-raise-system\backend\node_modules\mongodb\lib\cmap\connection.js:334:26)
+    at async Server.command (D:\ticket-raise-system\backend\node_modules\mongodb\lib\sdam\server.js:194:29)
+    at async tryOperation (D:\ticket-raise-system\backend\node_modules\mongodb\lib\operations\execute_operation.js:213:32)
+    at async executeOperation (D:\ticket-raise-system\backend\node_modules\mongodb\lib\operations\execute_operation.js:78:16)
+    at async FindCursor._initialize (D:\ticket-raise-system\backend\node_modules\mongodb\lib\cursor\find_cursor.js:62:26)
+    at async FindCursor.cursorInit (D:\ticket-raise-system\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (D:\ticket-raise-system\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (D:\ticket-raise-system\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+2025-10-19 01:18:28 [ERROR]: Error While connecting to DB Authentication failed.
+2025-10-19 01:29:27 [ERROR]: Expected double-quoted property name in JSON at position 40 (line 4 column 1) - /api/auth/login
