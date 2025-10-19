@@ -1,5 +1,5 @@
 import commentRepository from "../repositories/comment.repository.js";
-import ticketRepository from "../repositories/ticketRepository.js";
+import ticketRepository from "../repositories/ticket.repository.js";
 
 class CommentService {
   async addComment(ticketId, userId, userRole, message) {
@@ -10,7 +10,8 @@ class CommentService {
 
     if (
       userRole !== "admin" &&
-      ticket.createdBy._id.toString() !== userId.toString()
+      ticket.createdBy._id.toString() !== userId.toString() &&
+      ticket.assignedTo?._id.toString() !== userId.toString()
     ) {
       throw new Error("Not authorized to comment on this ticket");
     }
@@ -32,7 +33,8 @@ class CommentService {
 
     if (
       userRole !== "admin" &&
-      ticket.createdBy._id.toString() !== userId.toString()
+      ticket.createdBy._id.toString() !== userId.toString() &&
+      ticket.assignedTo?._id.toString() !== userId.toString()
     ) {
       throw new Error("Not authorized to view comments for this ticket");
     }

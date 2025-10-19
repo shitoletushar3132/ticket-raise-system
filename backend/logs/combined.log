@@ -90,3 +90,207 @@
 2025-10-19 01:29:27 [ERROR]: Expected double-quoted property name in JSON at position 40 (line 4 column 1) - /api/auth/login
 2025-10-19 01:30:05 [INFO]:  MongoDB Connected: localhost
 2025-10-19 01:30:05 [INFO]: Server running on port 5000
+2025-10-19 16:56:25 [ERROR]: Error While connecting to DB connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-10-19 16:57:12 [INFO]:  MongoDB Connected: localhost
+2025-10-19 16:57:12 [INFO]: Server running on port 5000
+2025-10-19 16:58:27 [INFO]:  MongoDB Connected: localhost
+2025-10-19 16:58:27 [INFO]: Server running on port 5000
+2025-10-19 16:58:55 [INFO]:  MongoDB Connected: localhost
+2025-10-19 16:58:55 [INFO]: Server running on port 5000
+2025-10-19 17:00:06 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:00:06 [INFO]: Server running on port 5000
+2025-10-19 17:00:10 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:00:10 [INFO]: Server running on port 5000
+2025-10-19 17:00:42 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:00:42 [INFO]: Server running on port 5000
+2025-10-19 17:00:45 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:00:46 [INFO]: Server running on port 5000
+2025-10-19 17:01:41 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:01:41 [INFO]: Server running on port 5000
+2025-10-19 17:01:42 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:01:42 [INFO]: Server running on port 5000
+2025-10-19 17:02:34 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:02:34 [INFO]: Server running on port 5000
+2025-10-19 17:03:13 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:03:13 [INFO]: Server running on port 5000
+2025-10-19 17:03:25 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:03:25 [INFO]: Server running on port 5000
+2025-10-19 17:03:28 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:03:28 [INFO]: Server running on port 5000
+2025-10-19 17:03:33 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:03:33 [INFO]: Server running on port 5000
+2025-10-19 17:04:13 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:04:13 [INFO]: Server running on port 5000
+2025-10-19 17:04:37 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:04:37 [INFO]: Server running on port 5000
+2025-10-19 17:04:56 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:04:56 [INFO]: Server running on port 5000
+2025-10-19 17:05:02 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:05:02 [INFO]: Server running on port 5000
+2025-10-19 17:05:23 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:05:23 [INFO]: Server running on port 5000
+2025-10-19 17:05:30 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:05:30 [INFO]: Server running on port 5000
+2025-10-19 17:05:34 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:05:34 [INFO]: Server running on port 5000
+2025-10-19 17:06:08 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:06:08 [INFO]: Server running on port 5000
+2025-10-19 17:06:15 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:06:15 [INFO]: Server running on port 5000
+2025-10-19 17:06:51 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:06:51 [INFO]: Server running on port 5000
+2025-10-19 17:07:26 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:07:26 [INFO]: Server running on port 5000
+2025-10-19 17:07:38 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:07:38 [INFO]: Server running on port 5000
+2025-10-19 17:07:50 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:07:50 [INFO]: Server running on port 5000
+2025-10-19 17:07:52 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:07:52 [INFO]: Server running on port 5000
+2025-10-19 17:08:45 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:08:45 [INFO]: Server running on port 5000
+2025-10-19 17:09:14 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:09:14 [INFO]: Server running on port 5000
+2025-10-19 17:09:52 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:09:52 [INFO]: Server running on port 5000
+2025-10-19 17:10:12 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:10:12 [INFO]: Server running on port 5000
+2025-10-19 17:10:48 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:10:48 [INFO]: Server running on port 5000
+2025-10-19 17:11:29 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:11:29 [INFO]: Server running on port 5000
+2025-10-19 17:12:41 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:12:41 [INFO]: Server running on port 5000
+2025-10-19 17:13:27 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:13:27 [INFO]: Server running on port 5000
+2025-10-19 17:14:09 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:14:09 [INFO]: Server running on port 5000
+2025-10-19 17:14:11 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:14:11 [INFO]: Server running on port 5000
+2025-10-19 17:15:04 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:15:04 [INFO]: Server running on port 5000
+2025-10-19 17:15:35 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:15:35 [INFO]: Server running on port 5000
+2025-10-19 17:16:44 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:16:44 [INFO]: Server running on port 5000
+2025-10-19 17:16:59 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:16:59 [INFO]: Server running on port 5000
+2025-10-19 17:17:31 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:17:31 [INFO]: Server running on port 5000
+2025-10-19 17:17:43 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:17:43 [INFO]: Server running on port 5000
+2025-10-19 17:22:50 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:22:50 [INFO]: Server running on port 5000
+2025-10-19 17:23:20 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:23:20 [INFO]: Server running on port 5000
+2025-10-19 17:23:25 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:23:25 [INFO]: Server running on port 5000
+2025-10-19 17:25:38 [INFO]:  MongoDB Connected: localhost
+2025-10-19 17:25:38 [INFO]: Server running on port 5000
+2025-10-19 19:25:11 [INFO]:  MongoDB Connected: localhost
+2025-10-19 19:25:11 [INFO]: Server running on port 5000
+2025-10-19 19:26:35 [INFO]:  MongoDB Connected: localhost
+2025-10-19 19:26:35 [INFO]: Server running on port 5000
+2025-10-19 19:27:23 [INFO]:  MongoDB Connected: localhost
+2025-10-19 19:27:23 [INFO]: Server running on port 5000
+2025-10-19 19:27:24 [ERROR]: Cannot read properties of undefined (reading 'message')
+2025-10-19 19:27:38 [INFO]:  MongoDB Connected: localhost
+2025-10-19 19:27:38 [INFO]: Server running on port 5000
+2025-10-19 19:27:40 [ERROR]: Cannot set headers after they are sent to the client
+2025-10-19 19:27:40 [ERROR]: Cannot set headers after they are sent to the client - /api/tickets
+2025-10-19 19:28:59 [INFO]:  MongoDB Connected: localhost
+2025-10-19 19:28:59 [INFO]: Server running on port 5000
+2025-10-19 19:29:05 [ERROR]: Cannot read properties of undefined (reading 'message')
+2025-10-19 19:29:55 [INFO]:  MongoDB Connected: localhost
+2025-10-19 19:29:55 [INFO]: Server running on port 5000
+2025-10-19 19:30:12 [ERROR]: Cannot set headers after they are sent to the client
+2025-10-19 19:30:12 [ERROR]: Cannot set headers after they are sent to the client - /api/tickets
+2025-10-19 19:30:36 [INFO]:  MongoDB Connected: localhost
+2025-10-19 19:30:36 [INFO]: Server running on port 5000
+2025-10-19 19:30:46 [INFO]:  MongoDB Connected: localhost
+2025-10-19 19:30:46 [INFO]: Server running on port 5000
+2025-10-19 19:30:49 [INFO]:  MongoDB Connected: localhost
+2025-10-19 19:30:49 [INFO]: Server running on port 5000
+2025-10-19 19:35:16 [INFO]:  MongoDB Connected: localhost
+2025-10-19 19:35:16 [INFO]: Server running on port 5000
+2025-10-19 19:35:24 [INFO]:  MongoDB Connected: localhost
+2025-10-19 19:35:24 [INFO]: Server running on port 5000
+2025-10-19 19:35:50 [INFO]:  MongoDB Connected: localhost
+2025-10-19 19:35:50 [INFO]: Server running on port 5000
+2025-10-19 19:43:47 [ERROR]: Error: User already exists
+    at AuthService.register (file:///D:/ticket-raise-system/backend/src/services/auth.service.js:10:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async register (file:///D:/ticket-raise-system/backend/src/controllers/auth.controller.js:26:22)
+2025-10-19 19:46:38 [ERROR]: Not authorized to access this ticket
+2025-10-19 19:47:03 [ERROR]: Not authorized to access this ticket
+2025-10-19 19:47:22 [ERROR]: Not authorized to access this ticket
+2025-10-19 19:56:51 [INFO]:  MongoDB Connected: localhost
+2025-10-19 19:56:51 [INFO]: Server running on port 5000
+2025-10-19 19:57:26 [INFO]:  MongoDB Connected: localhost
+2025-10-19 19:57:26 [INFO]: Server running on port 5000
+2025-10-19 19:58:38 [INFO]:  MongoDB Connected: localhost
+2025-10-19 19:58:38 [INFO]: Server running on port 5000
+2025-10-19 19:59:25 [INFO]:  MongoDB Connected: localhost
+2025-10-19 19:59:25 [INFO]: Server running on port 5000
+2025-10-19 19:59:35 [INFO]:  MongoDB Connected: localhost
+2025-10-19 19:59:35 [INFO]: Server running on port 5000
+2025-10-19 19:59:54 [INFO]:  MongoDB Connected: localhost
+2025-10-19 19:59:54 [INFO]: Server running on port 5000
+2025-10-19 20:00:05 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:00:05 [INFO]: Server running on port 5000
+2025-10-19 20:00:52 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:00:52 [INFO]: Server running on port 5000
+2025-10-19 20:00:57 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:00:57 [INFO]: Server running on port 5000
+2025-10-19 20:01:06 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:01:06 [INFO]: Server running on port 5000
+2025-10-19 20:01:27 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:01:27 [INFO]: Server running on port 5000
+2025-10-19 20:01:50 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:01:50 [INFO]: Server running on port 5000
+2025-10-19 20:02:32 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:02:32 [INFO]: Server running on port 5000
+2025-10-19 20:02:47 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:02:47 [INFO]: Server running on port 5000
+2025-10-19 20:02:55 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:02:55 [INFO]: Server running on port 5000
+2025-10-19 20:03:08 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:03:08 [INFO]: Server running on port 5000
+2025-10-19 20:03:32 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:03:32 [INFO]: Server running on port 5000
+2025-10-19 20:03:57 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:03:57 [INFO]: Server running on port 5000
+2025-10-19 20:04:22 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:04:22 [INFO]: Server running on port 5000
+2025-10-19 20:04:27 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:04:27 [INFO]: Server running on port 5000
+2025-10-19 20:04:38 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:04:38 [INFO]: Server running on port 5000
+2025-10-19 20:04:45 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:04:45 [INFO]: Server running on port 5000
+2025-10-19 20:05:04 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:05:04 [INFO]: Server running on port 5000
+2025-10-19 20:05:46 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:05:46 [INFO]: Server running on port 5000
+2025-10-19 20:06:40 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:06:40 [INFO]: Server running on port 5000
+2025-10-19 20:06:50 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:06:50 [INFO]: Server running on port 5000
+2025-10-19 20:06:54 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:06:54 [INFO]: Server running on port 5000
+2025-10-19 20:08:04 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:08:04 [INFO]: Server running on port 5000
+2025-10-19 20:09:30 [ERROR]: Not authorized to view comments for this ticket
+2025-10-19 20:11:08 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:11:08 [INFO]: Server running on port 5000
+2025-10-19 20:11:12 [ERROR]: Not authorized to view comments for this ticket
+2025-10-19 20:11:56 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:11:56 [INFO]: Server running on port 5000
+2025-10-19 20:12:07 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:12:07 [INFO]: Server running on port 5000
+2025-10-19 20:12:55 [ERROR]: Cannot destructure property 'message' of 'req.body' as it is undefined.
+2025-10-19 20:14:25 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:14:25 [INFO]: Server running on port 5000
+2025-10-19 20:15:25 [ERROR]: Not authorized to access this ticket
+2025-10-19 20:15:59 [INFO]:  MongoDB Connected: localhost
+2025-10-19 20:15:59 [INFO]: Server running on port 5000

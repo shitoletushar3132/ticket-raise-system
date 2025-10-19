@@ -6,6 +6,7 @@ import { errorHandler } from "./middlewares/errorHandler.js";
 import { successResponse } from "./utils/ApiResponse.js";
 import { STATUS } from "./utils/statusCodes.js";
 import authRouter from "./routes/auth.routes.js";
+import ticketRoutes from "./routes/ticket.routes.js";
 
 const app = express();
 
@@ -15,6 +16,7 @@ app.use(cors());
 app.use(express.urlencoded({ extended: true }));
 
 app.use("/api/auth", authRouter);
+app.use("/api/tickets", ticketRoutes);
 
 app.get("/", (req, res) => {
   logger.info("Home Route accessed");

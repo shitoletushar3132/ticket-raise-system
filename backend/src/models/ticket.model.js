@@ -24,6 +24,7 @@ const ticketSchema = new mongoose.Schema(
     department: {
       type: String,
       enum: ["IT", "HR", "Finance", "Operations", "Marketing", "Other"],
+      default:"Other",
       required: true,
     },
     createdBy: {

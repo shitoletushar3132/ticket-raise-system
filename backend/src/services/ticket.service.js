@@ -1,4 +1,4 @@
-import ticketRepository from "../repositories/ticket.repository";
+import ticketRepository from "../repositories/ticket.repository.js";
 
 class TicketService {
   async createTicket(ticketData, userId) {
@@ -28,7 +28,8 @@ class TicketService {
     // Check authorization
     if (
       userRole !== "admin" &&
-      ticket.createdBy._id.toString() !== userId.toString()
+      ticket.createdBy._id.toString() !== userId.toString() &&
+      ticket.assignedTo?._id.toString() !== userId.toString()
     ) {
       throw new Error("Not authorized to access this ticket");
     }

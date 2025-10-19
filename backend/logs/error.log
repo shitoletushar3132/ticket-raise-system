@@ -24,3 +24,21 @@
     at async FindCursor.next (D:\ticket-raise-system\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
 2025-10-19 01:18:28 [ERROR]: Error While connecting to DB Authentication failed.
 2025-10-19 01:29:27 [ERROR]: Expected double-quoted property name in JSON at position 40 (line 4 column 1) - /api/auth/login
+2025-10-19 16:56:25 [ERROR]: Error While connecting to DB connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-10-19 19:27:24 [ERROR]: Cannot read properties of undefined (reading 'message')
+2025-10-19 19:27:40 [ERROR]: Cannot set headers after they are sent to the client
+2025-10-19 19:27:40 [ERROR]: Cannot set headers after they are sent to the client - /api/tickets
+2025-10-19 19:29:05 [ERROR]: Cannot read properties of undefined (reading 'message')
+2025-10-19 19:30:12 [ERROR]: Cannot set headers after they are sent to the client
+2025-10-19 19:30:12 [ERROR]: Cannot set headers after they are sent to the client - /api/tickets
+2025-10-19 19:43:47 [ERROR]: Error: User already exists
+    at AuthService.register (file:///D:/ticket-raise-system/backend/src/services/auth.service.js:10:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async register (file:///D:/ticket-raise-system/backend/src/controllers/auth.controller.js:26:22)
+2025-10-19 19:46:38 [ERROR]: Not authorized to access this ticket
+2025-10-19 19:47:03 [ERROR]: Not authorized to access this ticket
+2025-10-19 19:47:22 [ERROR]: Not authorized to access this ticket
+2025-10-19 20:09:30 [ERROR]: Not authorized to view comments for this ticket
+2025-10-19 20:11:12 [ERROR]: Not authorized to view comments for this ticket
+2025-10-19 20:12:55 [ERROR]: Cannot destructure property 'message' of 'req.body' as it is undefined.
+2025-10-19 20:15:25 [ERROR]: Not authorized to access this ticket
