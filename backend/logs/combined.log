@@ -302,3 +302,8 @@
 2025-10-20 15:17:32 [INFO]: Server running on port 5000
 2025-10-20 15:18:12 [INFO]:  MongoDB Connected: localhost
 2025-10-20 15:18:12 [INFO]: Server running on port 5000
+2025-10-20 17:29:41 [ERROR]: Error While connecting to DB bad auth : Authentication failed.
+2025-10-20 17:31:00 [ERROR]: Error While connecting to DB bad auth : Authentication failed.
+2025-10-20 17:31:56 [ERROR]: Error While connecting to DB bad auth : Authentication failed.
+2025-10-20 17:33:57 [INFO]:  MongoDB Connected: ac-vdwndwj-shard-00-00.rkm7gsl.mongodb.net
+2025-10-20 17:33:57 [INFO]: Server running on port 5000

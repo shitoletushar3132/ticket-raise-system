@@ -42,3 +42,6 @@
 2025-10-19 20:11:12 [ERROR]: Not authorized to view comments for this ticket
 2025-10-19 20:12:55 [ERROR]: Cannot destructure property 'message' of 'req.body' as it is undefined.
 2025-10-19 20:15:25 [ERROR]: Not authorized to access this ticket
+2025-10-20 17:29:41 [ERROR]: Error While connecting to DB bad auth : Authentication failed.
+2025-10-20 17:31:00 [ERROR]: Error While connecting to DB bad auth : Authentication failed.
+2025-10-20 17:31:56 [ERROR]: Error While connecting to DB bad auth : Authentication failed.
