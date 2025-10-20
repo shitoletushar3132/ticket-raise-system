@@ -107,7 +107,7 @@ const Dashboard = () => {
                 <p
                   className="flex items-center gap-2 cursor-pointer"
                   onClick={() => {
-                    navigate("/tickets");
+                    navigate("/assigned-tickets");
                   }}
                 >
                   See All <FaArrowRight />
@@ -144,7 +144,7 @@ const Dashboard = () => {
                 <p
                   className="flex items-center gap-2 cursor-pointer"
                   onClick={() => {
-                    navigate("/assigned-tickets");
+                    navigate("/tickets");
                   }}
                 >
                   See All <FaArrowRight />

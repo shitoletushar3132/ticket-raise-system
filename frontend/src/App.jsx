@@ -44,7 +44,7 @@ function App() {
               path="/tickets"
               element={
                 <PrivateRoute>
-                  <Tickets />
+                  <Tickets type="all" />
                 </PrivateRoute>
               }
             />

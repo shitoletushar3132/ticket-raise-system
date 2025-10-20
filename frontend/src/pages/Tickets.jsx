@@ -20,7 +20,7 @@ const TicketList = ({ type = "assigned" }) => {
     department: "all",
   });
   const [sort, setSort] = useState({
-    field: "priority",
+    field: "createdAt",
     direction: "asc",
   });
 
